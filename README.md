@@ -49,7 +49,7 @@ http://localhost:8080
 
 ### DIAGRAM
 
-![Diagram](img/diagram.PNG)
+![Diagram](img/diagram.png)
 
 
 ## HEROKU
