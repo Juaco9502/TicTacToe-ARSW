@@ -51,12 +51,9 @@ http://localhost:8080
 
 ![Diagram](img/diagram.PNG)
 
-### DIAGRAM GENERAL
-
-![Diagram](img/diagram.PNG)
 
 ## HEROKU
-* [HOME]() - 
+* [HOME](https://tic-tac-toe-arsw.herokuapp.com/) - https://tic-tac-toe-arsw.herokuapp.com/
 
 ## PRE-REQUISITES
 
